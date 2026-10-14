@@ -1,0 +1,8 @@
+# 2026.08. - 2026.11. AI Engineering - TuringCollege
+
+
+| Project               | Key Feature                                                                                                                             | Tech Stack                                               | Repo                                                                                                |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Interview Preparation | - Switchable prompting techniques<br />- Structured JSON output for skills and quiz questions<br />- Guard against prompt injection     | Next.js, Prompt Engineering, OpenRouter, shadcn          | [job-interview-preparation](https://github.com/DanielRolfs-TuringCollege/job-interview-preparation) |
+| Buddhist Answers      | - Q&A Embedding<br />- Tool calling (search, list topics, list questions)<br />- Query rewriting for follow-ups<br />- RAGAs evaluation | Next.js, LangChain, RAGAs, ChromaDB, OpenRouter,  shadcn | [buddhist-answers](https://github.com/DanielRolfs-TuringCollege/buddhist-answers)                   |
+| Personal Coach        | Coming soon                                                                                                                             | Next.js, LangGraph, shadcn                               | In development                                                                                      |
